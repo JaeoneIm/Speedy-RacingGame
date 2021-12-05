@@ -4,11 +4,11 @@
 ## Preview
 ![화면 캡처 2021-12-05 135727](https://user-images.githubusercontent.com/87745921/144734279-27d54407-0b02-4bbf-82b7-612fc0c1fc0e.png)
 
-[시연영상(유튜브링크)](https://youtu.be/iDd5Py1h8Ws)
+[시연영상(유튜브 링크)](https://youtu.be/iDd5Py1h8Ws)
 
 ## 구현한 기능 및 코드예시
 **1. 캐릭터 움직임구현** (캐릭터차량 가운데 투명한 Sphere에 AddForce를 적용시켜 캐릭터의 위치를 Sphere와 동일시하는 방법)   
-[코드작성시 참고한 링크](https://youtu.be/CpXT5So1Gbg)
+[코드작성시 참고한 유튜브 링크](https://youtu.be/CpXT5So1Gbg)
 ```C#
 private void GetInput()
     {
